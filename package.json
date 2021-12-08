@@ -26,6 +26,6 @@
     "serve": "ecstatic --port 4000 --cache 0 static",
     "start": "npm run serve",
     "test": "standard",
-    "watch": "npm run serve"
+    "watch": "npm static/index.js"
   }
 }
